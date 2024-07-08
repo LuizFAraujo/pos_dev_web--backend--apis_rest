@@ -1,0 +1,52 @@
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\appsettings.Development.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\appsettings.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.exe
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.deps.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.runtimeconfig.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.dll
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.pdb
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.AssemblyInfoInputs.cache
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.AssemblyInfo.cs
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.csproj.CoreCompileInputs.cache
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.MvcApplicationPartsAssemblyInfo.cache
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.sourcelink.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets.build.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets.development.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.ApiRestCSharp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiRestCSharp.props
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestCSharp.props
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiRestCSharp.props
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\scopedcss\bundle\ApiRestCSharp.styles.css
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.dll
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\refint\ApiRestCSharp.dll
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.pdb
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.genruntimeconfig.cache
+D:\@ POS\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ref\ApiRestCSharp.dll
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\appsettings.Development.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\appsettings.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.exe
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.deps.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.runtimeconfig.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.dll
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\bin\Debug\net8.0\ApiRestCSharp.pdb
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.AssemblyInfoInputs.cache
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.AssemblyInfo.cs
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.csproj.CoreCompileInputs.cache
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.MvcApplicationPartsAssemblyInfo.cache
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.sourcelink.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets.build.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets.development.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.ApiRestCSharp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiRestCSharp.props
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestCSharp.props
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiRestCSharp.props
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\scopedcss\bundle\ApiRestCSharp.styles.css
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.dll
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\refint\ApiRestCSharp.dll
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.pdb
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ApiRestCSharp.genruntimeconfig.cache
+D:\@ POS\_____ PC\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\2024.04.08 - AULA 07\ATIVIDADE\pos_dev_web--backend--apis_rest\api_01_csharp\obj\Debug\net8.0\ref\ApiRestCSharp.dll

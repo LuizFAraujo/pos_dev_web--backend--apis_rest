@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/erc0rcaP8QSdHWqfuqAEiDRJuYMSU+Yhqfe3RWgS08=",
+  "Source": "ApiRestCSharp",
+  "BasePath": "_content/ApiRestCSharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

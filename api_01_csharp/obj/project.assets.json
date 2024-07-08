@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\@ POS\\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\\2024.04.08 - AULA 07\\ATIVIDADE\\pos_dev_web--backend--apis_rest\\api_01_csharp\\ApiRestCSharp\\ApiRestCSharp.csproj",
+      "projectUniqueName": "D:\\@ POS\\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\\2024.04.08 - AULA 07\\ATIVIDADE\\pos_dev_web--backend--apis_rest\\api_01_csharp\\ApiRestCSharp.csproj",
       "projectName": "ApiRestCSharp",
-      "projectPath": "D:\\@ POS\\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\\2024.04.08 - AULA 07\\ATIVIDADE\\pos_dev_web--backend--apis_rest\\api_01_csharp\\ApiRestCSharp\\ApiRestCSharp.csproj",
+      "projectPath": "D:\\@ POS\\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\\2024.04.08 - AULA 07\\ATIVIDADE\\pos_dev_web--backend--apis_rest\\api_01_csharp\\ApiRestCSharp.csproj",
       "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
-      "outputPath": "D:\\@ POS\\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\\2024.04.08 - AULA 07\\ATIVIDADE\\pos_dev_web--backend--apis_rest\\api_01_csharp\\ApiRestCSharp\\obj\\",
+      "outputPath": "D:\\@ POS\\2023.02 - D1DBE - DESENVOLVIMENTO BACK-END I\\2024.04.08 - AULA 07\\ATIVIDADE\\pos_dev_web--backend--apis_rest\\api_01_csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
