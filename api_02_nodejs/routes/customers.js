@@ -1,24 +1,43 @@
-import express from 'express';
+import express from "express";
 const router = express.Router();
-import Customer from '../models/customer.js';
+import db from "../db/conectaDb.js";
 
-router.get('/', (req, res) => {
-    const customers = [
-        new Customer(1, 'John', 'Doe', 'john@example.com', '1234567890'),
-        new Customer(2, 'Jane', 'Smith', 'jane@example.com', '0987654321'),
-        new Customer(3, 'Bob', 'Brown', 'bob@example.com', '1122334455'),
-    ];
-    res.json(customers);
+router.get("/", (req, res) => {
+  const sql = "SELECT * FROM customer";
+  const params = [];
+  db.all(sql, params, (err, rows) => {
+    if (err) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    res.json({
+      message: "success",
+      data: rows,
+    });
+  });
 });
 
-router.post('/', (req, res) => {
-    const { id, firstName, lastName, email, phoneNumber } = req.body;
-
-    const customer = new Customer({ id, firstName, lastName, email, phoneNumber });
-    console.log(`********** POST Customer - Received Data. **********`);
-    // console.log(customer);
-    
-    res.status(200).send();
+router.post("/", (req, res) => {
+  const { firstName, lastName, email, phoneNumber } = req.body;
+  const sql =
+    "INSERT INTO customer (firstName, lastName, email, phoneNumber) VALUES (?,?,?,?)";
+  const params = [firstName, lastName, email, phoneNumber];
+  db.run(sql, params, function (err) {
+    if (err) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    res.json({
+      message: "success",
+      data: {
+        id: this.lastID,
+        firstName,
+        lastName,
+        email,
+        phoneNumber,
+      },
+    });
+  });
 });
 
 export default router;

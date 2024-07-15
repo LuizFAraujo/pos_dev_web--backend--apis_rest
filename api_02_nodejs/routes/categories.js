@@ -1,24 +1,44 @@
-import express from 'express';
+import express from "express";
 const router = express.Router();
-import Category from '../models/category.js';
+import db from "../db/conectaDb.js";
 
-router.get('/', (req, res) => {
-    const categories = [
-        new Category(1, 'Category1', 'Description1', true, new Date()),
-        new Category(2, 'Category2', 'Description2', true, new Date()),
-        new Category(3, 'Category3', 'Description3', true, new Date()),
-    ];
-    res.json(categories);
+router.get("/", (req, res) => {
+  const sql = "SELECT * FROM category";
+  const params = [];
+  db.all(sql, params, (err, rows) => {
+    if (err) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    res.json({
+      message: "success",
+      data: rows,
+    });
+  });
 });
 
-router.post('/', (req, res) => {
-    const { id, name, description, isActive, createdAt } = req.body;
+router.post("/", (req, res) => {
+  const { name, description, isActive, createdAt } = req.body;
+  const sql =
+    "INSERT INTO category (name, description, isActive, createdAt) VALUES (?,?,?,?)";
+  const params = [name, description, isActive, createdAt];
 
-    const category = new Category({ id, name, description, isActive, createdAt });
-    console.log(`********** POST Category - Received Data. **********`);
-    // console.log(category);
-
-    res.status(200).send();
+  db.run(sql, params, function (err) {
+    if (err) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    res.json({
+      message: "success",
+      data: {
+        id: this.lastID,
+        name,
+        description,
+        isActive,
+        createdAt,
+      },
+    });
+  });
 });
 
 export default router;

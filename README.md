@@ -18,6 +18,12 @@ D1DBE - DESENVOLVIMENTO BACK-END I
 - Linguagens a utilizar, conforme a preferência de cada um.
 
 <!-- ----------------------------------------------------------- -->
+## 🔃 Atualização
+
+- Incluído comunicação com banco de dados para a api em node.
+- Por simplicidade, escolhido usar SQlite.
+
+<!-- ----------------------------------------------------------- -->
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/LuizFAraujo/pos_dev_web--backend--apis_rest/blob/main/LICENSE) para detalhes.

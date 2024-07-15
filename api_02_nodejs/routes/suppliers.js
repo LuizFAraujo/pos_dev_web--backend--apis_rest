@@ -1,24 +1,43 @@
-import express from 'express';
+import express from "express";
 const router = express.Router();
-import Supplier from '../models/supplier.js';
+import db from "../db/conectaDb.js";
 
-router.get('/', (req, res) => {
-    const suppliers = [
-        new Supplier(1, 'Supplier1', 'Contact1', 'contact1@example.com', '1234567890'),
-        new Supplier(2, 'Supplier2', 'Contact2', 'contact2@example.com', '0987654321'),
-        new Supplier(3, 'Supplier3', 'Contact3', 'contact3@example.com', '1122334455'),
-    ];
-    res.json(suppliers);
+router.get("/", (req, res) => {
+  const sql = "SELECT * FROM supplier";
+  const params = [];
+  db.all(sql, params, (err, rows) => {
+    if (err) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    res.json({
+      message: "success",
+      data: rows,
+    });
+  });
 });
 
-router.post('/', (req, res) => {
-    const { id, companyName, contactName, email, phone } = req.body;
-
-    const supplier = new Supplier({ id, companyName, contactName, email, phone });
-    console.log(`********** POST Supplier - Received Data. **********`);
-    // console.log(supplier);
-
-    res.status(200).send();
+router.post("/", (req, res) => {
+  const { companyName, contactName, email, phone } = req.body;
+  const sql =
+    "INSERT INTO supplier (companyName, contactName, email, phone) VALUES (?,?,?,?)";
+  const params = [companyName, contactName, email, phone];
+  db.run(sql, params, function (err) {
+    if (err) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    res.json({
+      message: "success",
+      data: {
+        id: this.lastID,
+        companyName,
+        contactName,
+        email,
+        phone,
+      },
+    });
+  });
 });
 
 export default router;
